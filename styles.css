@@ -253,6 +253,10 @@ footer p:last-of-type {
   background-image: URL("https://codepen.io/hasykes/pen/wEpxXN/image/small.png");
 }
 
+.project-tile:nth-child(5){
+  background-image: URL("https://codepen.io/hasykes/pen/wLomgm/image/small.png")
+}
+
 @media only screen and (max-width: 800px) {
   #myName {
     display: none;
